@@ -18,7 +18,7 @@
 | **Hochschule** | Westfälische Hochschule Gelsenkirchen |
 | **Studiengang** | Elektrotechnik |
 | **Betreuer** | Prof. Dr. Christos Georgiadis |
-| **Autor** | Ydriss Armel Demanou (Matrikel: 202523503) |
+| **Autor** | Ydriss Armel Demanou  |
 | **Datum** | Februar 2026 |
 
 ---
